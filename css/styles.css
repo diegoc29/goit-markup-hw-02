@@ -1,6 +1,5 @@
 body {
-    font-family: 'roboto' !important;
-    color: black;
+    font-family: 'Roboto', sans-serif; !important¡
     font-size: 16px;
     line-height: 26px;
     font-weight: 500;
@@ -44,12 +43,14 @@ h1{
 }
 
 .button {
+    cursor: pointer;
     font-size: 16px;
     line-height: 1.25;
     font-weight: 700;
     color: #FFFFFF;
 }
 #button-main{
+    cursor: pointer;
     width: 261px;
     height: 2.08;
     left: 666px;
@@ -102,14 +103,14 @@ article {
     top: 1092.3px;
 }
 
-.title-imagenes1 {
+.title-img1 {
     width: 270px;
     height: 10.83;
     left: 208px;
     top: 1696px;
 }
 
-.title-imagenes2 {
+.title-img2 {
     width: 370px;
     height: 12.25;
 }
