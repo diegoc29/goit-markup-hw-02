@@ -35,9 +35,6 @@ h3{
     color: var(--text-color)
 }
 
-h4 {
-    color: var(--brand-color);
-}
 
 
 p {
@@ -126,13 +123,28 @@ ul{
 
 .title-img2 {
     width: 370px;
-    height: 12.25;
+    height: 1294px;
+}
+
+.text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
 }
 
 #banner{
     cursor: pointer;
     width: 1600px;
-    height: 25;
+    height: 250px;
+    left: -4px;
+    top: 80px;
+    background: #2F303A;
+}
+
+#banner1{
+    cursor: pointer;
+    width: 1600px;
+    height: 100px;
     left: -4px;
     top: 80px;
     background: #2F303A;
@@ -141,16 +153,12 @@ ul{
 #button-main{
     cursor: pointer;
     width: 261px;
-    height: 2.08;
+    height: 50px;
     left: 666px;
     top: 430px;
     background: #2196F3;
 }
 
-#text{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-}
+
 
 
